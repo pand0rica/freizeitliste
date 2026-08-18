@@ -1,0 +1,10 @@
+# Sensitive / non-code files that should not be read into context
+.vscode/sftp.json
+.vscode/settings.json
+*.sql
+*.backup
+*.bak
+*.log
+TESTING.md
+DELIVERY_SUMMARY.md
+NOTES.md

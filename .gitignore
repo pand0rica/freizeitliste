@@ -1,0 +1,23 @@
+# Development
+.vscode/sftp.json
+.vscode/settings.json
+*.backup
+*.bak
+
+# SQL dumps
+*.sql
+
+# Internal docs
+TESTING.md
+DELIVERY_SUMMARY.md
+NOTES.md
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Forum post file (not code, not for repo)
+PLUGIN_POST.html
+
+# Logs
+*.log
